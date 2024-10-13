@@ -1,0 +1,14 @@
+.env
+
+sessions/
+
+app_data/*
+!app_data/.gitkeep
+
+.idea/
+
+__pycache__
+
+*.session
+
+*.cpython-310.pyc
